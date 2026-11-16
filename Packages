@@ -1,0 +1,12 @@
+Package: com.local.pddcapture
+Name: Local PDD Capture
+Version: 0.3.0
+Architecture: iphoneos-arm64
+Description: Local PDD capture: PDDAPI response -> HTTPS upload with card activation.
+Maintainer: local
+Author: local
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/LocalPDDCapture_0.3.0_iphoneos-arm64.deb
+Size: 17848
+SHA256: 818f5517e1230d0dc663f2595ab4d55ff713a8cfbac0ba48b55308b356731e29
