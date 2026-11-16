@@ -1,12 +1,12 @@
 Package: com.local.pddcapture
 Name: 多采集
-Version: 0.3.1
+Version: 0.3.2
 Architecture: iphoneos-arm64
 Description: 多采集苹果端：拼多多商品采集，账号密码激活，异地网络可用。
 Maintainer: 多采集
 Author: 多采集
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.local.pddcapture_0.3.1_iphoneos-arm64.deb
-Size: 17934
-SHA256: b7b7d51f7fbec4148da87e02c6865f0dc92666b2dd33ac4e802804d8d4273b4d
+Filename: debs/com.local.pddcapture_0.3.2_iphoneos-arm64.deb
+Size: 20398
+SHA256: 165aacc559329a0f72ab0c70e6070f6b1e146a2d896bd90286f18da8c3192494
