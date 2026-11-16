@@ -1,12 +1,12 @@
 Package: com.local.pddcapture
-Name: Local PDD Capture
-Version: 0.3.0
+Name: 多采集
+Version: 0.3.1
 Architecture: iphoneos-arm64
-Description: Local PDD capture: PDDAPI response -> HTTPS upload with card activation.
-Maintainer: local
-Author: local
+Description: 多采集苹果端：拼多多商品采集，账号密码激活，异地网络可用。
+Maintainer: 多采集
+Author: 多采集
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/LocalPDDCapture_0.3.0_iphoneos-arm64.deb
-Size: 17848
-SHA256: 818f5517e1230d0dc663f2595ab4d55ff713a8cfbac0ba48b55308b356731e29
+Filename: debs/com.local.pddcapture_0.3.1_iphoneos-arm64.deb
+Size: 17934
+SHA256: b7b7d51f7fbec4148da87e02c6865f0dc92666b2dd33ac4e802804d8d4273b4d
