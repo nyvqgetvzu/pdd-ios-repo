@@ -8,5 +8,5 @@ Author: 多采集
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.local.pddcapture_0.4.4_iphoneos-arm64.deb
-Size: 26210
-SHA256: 52ad16ffca4a5b919af14de9bbd8456b6bf621d6803c2c00be9202e015082cbe
+Size: 26484
+SHA256: 9c58d976b0ca3fb2f06f78a4c31f70e89d67eabda47fb1b7f08cfa4f510899ed
