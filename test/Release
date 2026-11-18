@@ -1,0 +1,15 @@
+Origin: DuoCai Test
+Label: DuoCai Test
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: DuoCai test repository
+Date: Wed, 18 Nov 2026 16:37:31 +0000
+MD5Sum:
+ f4bdf28818434b6796a1fbd7a080c04b 473 Packages
+ 527951d0de7b17c8b33a053c007daea9 383 Packages.gz
+SHA256:
+ eef40883c180f45fca3996ed9fe8821fdf38593c8be3286b4e7f967cd814455a 473 Packages
+ 3a0769e635fd774784f0e2c92c106eec29ed4875fd70ee583d0ca85442600acc 383 Packages.gz
