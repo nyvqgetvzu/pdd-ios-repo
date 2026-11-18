@@ -1,0 +1,15 @@
+Package: com.local.pddcapture
+Name: Local PDD Capture (测试)
+Version: 0.4.23
+Architecture: iphoneos-arm64
+Description: 设置面板登录测试版（守护进程架构）
+Maintainer: local
+Author: local
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.local.pddcapture_0.4.23_iphoneos-arm64.deb
+Size: 21484
+MD5sum: a0b30424cde48742cd29814ed4f10be9
+SHA256: e245d0b701b92137aa4827a513e08119a9630e95fef6ae0660144ed089955120
+Installed-Size: 120
+
